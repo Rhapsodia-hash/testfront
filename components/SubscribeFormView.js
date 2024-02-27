@@ -1,4 +1,4 @@
-// components/SubscribeFormView.js
+
 import React from 'react';
 
 const SubscribeFormView = ({ onSubmit, onChange, email }) => {
