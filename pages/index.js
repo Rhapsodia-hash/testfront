@@ -1,4 +1,3 @@
-// pages/index.js
 import React from 'react';
 import SubscribeForm from '../components/SubscribeForm';
 
